@@ -1,2 +1,2 @@
 # css-selectors-remote
-A little project from internetingishard.com
+An other little project from internetingishard.com
